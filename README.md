@@ -1,4 +1,4 @@
-# food-delivery-app \
+# food-delivery-app
 \
 Fujitsu Summer Internship Trial Task\
 \
